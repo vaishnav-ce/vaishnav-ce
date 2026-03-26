@@ -17,6 +17,6 @@ I'm a Full-Stack developer building scalable software solutions using modern tec
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vaishnav-ce&icon=0&color=1)](https://visitcount.itsvg.in)
-<script src="https://louisabraham.github.io/nekojs/neko.js" data-autostart></script>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
